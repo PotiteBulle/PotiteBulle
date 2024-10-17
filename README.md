@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Potite_bulle [Potate]</h1>
 <h3 align="center">I enjoy creating scripts that I use on a daily basis.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potitebulle" alt="potitebulle" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/potate_bulle" target="blank"><img src="https://img.shields.io/twitter/follow/potate_bulle?logo=twitter&style=for-the-badge" alt="potate_bulle" /></a> </p>
 
