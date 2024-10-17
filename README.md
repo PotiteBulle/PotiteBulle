@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on several projects:
 - [HopperSystem - bans](https://github.com/PotiteBulle/hopper)
-- [Fluffy-Artefacts](https://github.com/PotiteBulle/Fluffy-Artefacts))
-- [Fluffy-Defensive-Scripts](https://github.com/PotiteBulle/Fluffy-Defensive-Scripts))
-- [Fluffy-PowerShell-Sec](https://github.com/PotiteBulle/Fluffy-PowerShell-Sec))
-- [Fluffy_Inventory_Manager](https://github.com/PotiteBulle/Fluffy_Inventory_Manager))
+- [Fluffy-Artefacts](https://github.com/PotiteBulle/Fluffy-Artefacts)
+- [Fluffy-Defensive-Scripts](https://github.com/PotiteBulle/Fluffy-Defensive-Scripts)
+- [Fluffy-PowerShell-Sec](https://github.com/PotiteBulle/Fluffy-PowerShell-Sec)
+- [Fluffy_Inventory_Manager](https://github.com/PotiteBulle/Fluffy_Inventory_Manager)
 
 
 <h3 align="left">Connect with me:</h3>
