@@ -1,7 +1,11 @@
 <h1 align="center">I'm Potite_bulle [Potate]</h1>
 <h3 align="center">I enjoy creating scripts that I use on a daily basis.</h3>
 
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=IEL&logo=IEL&label=&color=FFB8CE&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="IEL logo"/>
+  <img src="https://img.shields.io/static/v1?message=AEL&logo=AEL&label=&color=BBB4DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="AEL logo"/>
 
+</div>
 
 <h3>🔭 I’m currently working on several projects</h3>
 
