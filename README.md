@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Potite_bulle [Potate]</h1>
+<h1 align="center">I'm Potite_bulle [Potate]</h1>
 <h3 align="center">I enjoy creating scripts that I use on a daily basis.</h3>
 
 
