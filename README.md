@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://bsky.app/profile/interface.potitebulle.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle" /></a> </p>
+<p align="left"> <a href="https://bsky.app/profile/interface.potitebulle.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle"  width="40" height="40"/></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
