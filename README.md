@@ -14,7 +14,7 @@
 - [Fluffy-Defensive-Scripts](https://github.com/PotiteBulle/Fluffy-Defensive-Scripts)
 - [Fluffy-PowerShell-Sec](https://github.com/PotiteBulle/Fluffy-PowerShell-Sec)
 - [Fluffy_Inventory_Manager](https://github.com/PotiteBulle/Fluffy_Inventory_Manager)
-
+- [Fluffy-CTF](https://github.com/PotiteBulle/Fluffy-CTF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://bsky.app/profile/interface.potitebulle.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle"  width="40" height="40"/></a> </p>
