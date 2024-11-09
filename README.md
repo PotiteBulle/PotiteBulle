@@ -9,6 +9,7 @@
 
 <h3>🔭 I’m currently working on several projects</h3>
 
+- [Spectrum (New Pokemon 🦄)](https://github.com/PotiteBulle/Spectrum)
 - [HopperSystem (fonction bans) - Update 29/10/2024](https://github.com/PotiteBulle/hopper)
 - [Fluffy-Artefacts - Update 29/10/2024](https://github.com/PotiteBulle/Fluffy-Artefacts)
 - [Fluffy-Defensive-Scripts](https://github.com/PotiteBulle/Fluffy-Defensive-Scripts)
