@@ -9,10 +9,9 @@
 
 <h3>🔭 I’m currently working on several projects</h3>
 
-- [Spectrum (New Pokemon 🦄)](https://github.com/PotiteBulle/Spectrum)
-- [HopperSystem (fonction bans) - Update 29/10/2024](https://github.com/PotiteBulle/hopper)
-- [Fluffy-Artefacts - Update 29/10/2024](https://github.com/PotiteBulle/Fluffy-Artefacts)
-- [Fluffy-Raidbot - Update 13/11/2024](https://github.com/PotiteBulle/Fluffy-Raidbot)
+- [Spectrum](https://github.com/PotiteBulle/Spectrum)
+- [Fluffy-Artefacts - Update 16/12/2024](https://github.com/PotiteBulle/Fluffy-Artefacts)
+- [Fluffy-Artefacts - New](https://github.com/PotiteBulle/Fluffy-Artefacts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://bsky.app/profile/interface.potitebulle.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle"  width="40" height="40"/></a> </p>
