@@ -9,7 +9,7 @@
 
 <h3>🔭 I’m currently working on several projects</h3>
 
-- [Spectrum](https://github.com/PotiteBulle/Spectrum)
+- [Spectrum - Update 18/12/2025](https://github.com/PotiteBulle/Spectrum)
 - [Fluffy-Artefacts - Update 16/12/2024](https://github.com/PotiteBulle/Fluffy-Artefacts)
 - [Fluffy-Extract - New](https://github.com/PotiteBulle/Fluffy-Extract)
 
