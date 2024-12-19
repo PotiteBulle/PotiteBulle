@@ -10,8 +10,7 @@
 <h3>🔭 I’m currently working on several projects</h3>
 
 - [Spectrum - Update 18/12/2025](https://github.com/PotiteBulle/Spectrum)
-- [Fluffy-Artefacts - Update 16/12/2024](https://github.com/PotiteBulle/Fluffy-Artefacts)
-- [Fluffy-Extract - New](https://github.com/PotiteBulle/Fluffy-Extract)
+- [Fluffy-Artefacts - fix bug en cours]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://bsky.app/profile/interface.potitebulle.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle"  width="40" height="40"/></a> </p>
