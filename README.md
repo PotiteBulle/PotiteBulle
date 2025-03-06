@@ -11,7 +11,7 @@
 
 - [Spectrum - Update 19/12/2024](https://github.com/PotiteBulle/Spectrum)
 - [Fluffy-Artefacts - Update majeur & fonctionnalités 06/03/2025](https://github.com/PotiteBulle/Fluffy-Artefacts/tree/main)
-- [DiscInfractions - Système de rapports d'infractions sur les messages Discord](https://github.com/PotiteBulle/DiscInfractions)
+- [Fluffy Memories - Update 04/03/2025](https://github.com/PotiteBulle/FluffyMemories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://bsky.app/profile/potatebulle.bsky.social" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle"  width="40" height="40"/></a> </p>
