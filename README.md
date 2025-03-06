@@ -10,7 +10,7 @@
 <h3>🔭 I’m currently working on several projects</h3>
 
 - [Spectrum - Update 19/12/2024](https://github.com/PotiteBulle/Spectrum)
-- [Fluffy-Artefacts - Update majeur & fonctionnalités 20/12/2024](https://github.com/PotiteBulle/Fluffy-Artefacts/tree/main)
+- [Fluffy-Artefacts - Update majeur & fonctionnalités 06/03/2025](https://github.com/PotiteBulle/Fluffy-Artefacts/tree/main)
 - [DiscInfractions - Système de rapports d'infractions sur les messages Discord](https://github.com/PotiteBulle/DiscInfractions)
 
 <h3 align="left">Connect with me:</h3>
