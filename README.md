@@ -9,7 +9,6 @@
 
 <h3>🔭 I’m currently working on several projects</h3>
 
-- [Spectrum - Update 19/12/2024](https://github.com/PotiteBulle/Spectrum)
 - [Fluffy-Artefacts - Update majeur & fonctionnalités 06/03/2025](https://github.com/PotiteBulle/Fluffy-Artefacts/tree/main)
 - [Fluffy Memories - Update 04/03/2025](https://github.com/PotiteBulle/FluffyMemories)
 
