@@ -12,6 +12,8 @@
 - [Fluffy-Artefacts - Update - 06/03/2025](https://github.com/PotiteBulle/Fluffy-Artefacts/tree/main)
 - [Fluffy Memories - Update - 04/03/2025](https://github.com/PotiteBulle/FluffyMemories)
 - [Mod_Scope - 26/03/2025](https://github.com/PotiteBulle/Mod_Scope)
+
+### New Outils:
 - [Interface_Twitch_Mods - Bot](https://github.com/PotiteBulle/Interface_Twitch_Mods)
 - [RedLine](https://github.com/PotiteBulle/Redline-Report)
 
