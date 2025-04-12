@@ -16,6 +16,7 @@
 ### New Outils:
 - [Interface_Twitch_Mods - Bot](https://github.com/PotiteBulle/Interface_Twitch_Mods)
 - [RedLine](https://github.com/PotiteBulle/Redline-Report)
+- [RedLine OSINT](https://github.com/PotiteBulle/Redline-OSINT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://bsky.app/profile/potatebulle.bsky.social" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="potate_bulle"  width="40" height="40"/></a> </p>
