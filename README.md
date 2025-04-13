@@ -13,7 +13,7 @@
 - [Fluffy Memories - Update - 04/03/2025](https://github.com/PotiteBulle/FluffyMemories)
 - [Mod_Scope - 26/03/2025](https://github.com/PotiteBulle/Mod_Scope)
 
-### New Outils:
+### New Kit:
 - [Interface_Twitch_Mods - Bot](https://github.com/PotiteBulle/Interface_Twitch_Mods)
 - [RedLine](https://github.com/PotiteBulle/Redline-Report)
 - [RedLine OSINT](https://github.com/PotiteBulle/Redline-OSINT)
