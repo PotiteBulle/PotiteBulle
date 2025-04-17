@@ -14,7 +14,6 @@
 - [Mod_Scope - 26/03/2025](https://github.com/PotiteBulle/Mod_Scope)
 
 ### New Outils:
-- [Twitch Recon](https://github.com/PotiteBulle/TwitchRecon)
 - [Interface_Twitch_Mods - Bot](https://github.com/PotiteBulle/Interface_Twitch_Mods)
 - [RedLine](https://github.com/PotiteBulle/Redline-Report)
 - [RedLine OSINT](https://github.com/PotiteBulle/Redline-OSINT)
